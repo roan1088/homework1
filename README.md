@@ -1,2 +1,3 @@
 # homework1
-This is a homework assignment.where I am given a existing website.  
+This is a homework assignment.
+I am to refactor an existing site to make it more accessible.
